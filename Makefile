@@ -61,13 +61,6 @@ DEFINES   += UI_NANO_S
 endif
 
 #DEFINES += IOCRYPT
-<<<<<<< HEAD
-## Debug options
-#DEFINES   += DEBUG_HWDEVICE
-DEFINES   += IODUMMYCRYPT
-#DEFINES   += IONOCRYPT
-=======
->>>>>>> upstream/master
 
 ################
 # Default rule #
